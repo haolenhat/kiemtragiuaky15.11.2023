@@ -2,8 +2,6 @@
 
 int main()
 {
-	int a[MAX];
-	nhap(a, 10);
-
+	xuatthongtin();
 	return 0;
 }

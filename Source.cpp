@@ -1,9 +1,5 @@
 #include "Header.h"
-void nhap(int a[], int n)
-{
-	for (int i = 0; i < n; i++)
-	{
-		cout << "Nhap a[" << i << "]: ";
-		cin >> a[i];
-	}
+void xuatthongtin()
+{	
+	cout <<"DH52001595"<<"|"<<"Le Nhat Hao"<<"|"<<"D20_TH04";
 }
